@@ -144,7 +144,7 @@ const questions = [
 // TODO: Create a function to write README file
 const writeFile = fileContent => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('./grm/generated-README.md', fileContent, err => {
+        fs.writeFile('./readgove/generated-README.md', fileContent, err => {
             if (err) {
                 reject(err);
                 return;
