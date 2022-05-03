@@ -1,15 +1,23 @@
 {
-  "name": "static-site",
+  "name": "WK9HW-ReadMe-Gove",
   "version": "1.0.0",
-  "description": "",
+  "description": "Read Me Generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+github.com/mollygove/WK9HW-ReadMe-Gove"
+  },
+  "author": "Molly Gove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mollygove/WK9HW-ReadMe-Gove"
+  },
+  "homepage": "https://github.com/mollygove/WK9HW-ReadMe-Gove",
   "dependencies": {
     "inquirer": "^6.3.1",
-    "react-scripts": "^4.0.1"
+    "react-scripts": "^5.0.1"
   }
 }
