@@ -1,5 +1,5 @@
 
-  # test
+  # Test
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
     
@@ -38,5 +38,5 @@
   test
   ## [Questions](#table-of-contents)
   Please contact me using the following links:
-  [GitHub](https://github.com/test)
-  [Email: test](mailto:test)
+  [GitHub](https://github.com/mollygove)
+  [Email: molly.gove@comcast.net](mailto:molly.gove@comcast.net)
